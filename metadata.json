@@ -1,0 +1,5 @@
+{
+  "name": "经典贪吃蛇",
+  "description": "基于 React 和 Tailwind 重构的经典贪吃蛇游戏。",
+  "requestFramePermissions": []
+}
